@@ -7,12 +7,6 @@ Email Me 👉 ✉️ **rohitrai182003@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Real estate
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
- 
- <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit._raii18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/rohit-rai-2b5b27237) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rohitrai18122003) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RohitRa42023411) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitrai182003@gmail.com) 
@@ -32,6 +26,12 @@ Email Me 👉 ✉️ **rohitrai182003@gmail.com** For Collaboration/Project or A
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RohitRai18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+ <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RohitRai18&icon=0&color=0)](https://visitcount.itsvg.in)
