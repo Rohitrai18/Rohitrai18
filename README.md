@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
-<p align="cente">I love creating new things ⚡</p>
+<p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 
 
