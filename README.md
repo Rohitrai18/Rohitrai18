@@ -2,8 +2,6 @@
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 
-
- 
 - 🌱 I’m currently learning **React.js** and exploring backend technologies
 - 💻 I love building responsive and visually appealing websites
 - 📫 Reach me at rohitrai182003@gmail.com**
