@@ -1,5 +1,5 @@
  💫 Hi 👋, I'm Rohit Rai
-**A passionate frontend developer || DevOps Engineer ||
+**A passionate frontend developer
 Email Me 👉 ✉️ **rohitrai182003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Real estate
@@ -7,7 +7,8 @@ Email Me 👉 ✉️ **rohitrai182003@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Real estate
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-- <!-- Snake Game Repo View -->
+ 
+ <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
