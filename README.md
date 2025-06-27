@@ -1,11 +1,9 @@
- 💫 Hi 👋, I'm Rohit Rai
-**A passionate frontend developer
-Email Me 👉 ✉️ **rohitrai182003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+                               Hi 👋🏻, I'm Rohit Rai
 
-- 🔭 **I’m currently working on:** Real estate
-- 🌱 **I’m currently learning:** DSA
-- 👯 **I’m looking to collaborate on:** Real estate
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+                            I love creating new things ⚡
+
+                          Turning imagination into reality 🚀
+
 
 
 ## 🌐 Socials:
