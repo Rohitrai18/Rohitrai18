@@ -1,9 +1,7 @@
-                               Hi 👋🏻, I'm Rohit Rai
-
-                            I love creating new things ⚡
-
-                          Turning imagination into reality 🚀
-
+**
+- 🌱 I’m currently learning **React.js** and exploring backend technologies
+- 💻 I love building responsive and visually appealing websites
+- 📫 Reach me at rohitrai182003@gmail.com***
 
 
 ## 🌐 Socials:
