@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Rai</h1>
-<p align="center>I love creating new things ⚡</p>
-<p align="center>Turning imagination into reality 🚀</p>
+<p align="cente"r>I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
  
 - 🌱 I’m currently learning **React.js** and exploring backend technologies
 - 💻 I love building responsive and visually appealing websites
